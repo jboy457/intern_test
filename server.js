@@ -20,7 +20,7 @@ const validate = () => [
 
 
 // ************ REGISTER ROUTES HERE ********** //
-app.get('/csv_filter', validate(), async (req, res) => {
+app.post('/csv_filter', validate(), async (req, res) => {
   try {
     // Validate request
     const errors = validationResult(req);

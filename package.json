@@ -16,5 +16,14 @@
     "express": "^4.17.1",
     "express-validator": "^6.9.2",
     "morgan": "^1.10.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jboy457/intern_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jboy457/intern_test/issues"
+  },
+  "homepage": "https://github.com/jboy457/intern_test#readme"
 }
